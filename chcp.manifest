@@ -1,0 +1,66 @@
+[
+  {
+    "file": "favicon.ico",
+    "hash": "6a93b12c14c993bd7a6d05db5b625210"
+  },
+  {
+    "file": "index.html",
+    "hash": "e6dcaf3790f430574ce73a212e49502e"
+  },
+  {
+    "file": "static/config.js",
+    "hash": "fa392bfb55ec4d1783a7ff76d4724a12"
+  },
+  {
+    "file": "static/css/app.6f14d7a37d51d0c0bde2a56f4bcedc40.css",
+    "hash": "513ee774875d33ea7f88fcf25516bce4"
+  },
+  {
+    "file": "static/css/app.6f14d7a37d51d0c0bde2a56f4bcedc40.css.map",
+    "hash": "80aa3903964342760b2bda199db280ce"
+  },
+  {
+    "file": "static/fonts/fontawesome-webfont.674f50d.eot",
+    "hash": "674f50d287a8c48dc19ba404d20fe713"
+  },
+  {
+    "file": "static/fonts/fontawesome-webfont.af7ae50.woff2",
+    "hash": "af7ae505a9eed503f8b8e6982036873e"
+  },
+  {
+    "file": "static/fonts/fontawesome-webfont.b06871f.ttf",
+    "hash": "b06871f281fee6b241d60582ae9369b9"
+  },
+  {
+    "file": "static/fonts/fontawesome-webfont.fee66e7.woff",
+    "hash": "fee66e712a8a08eef5805a46892932ad"
+  },
+  {
+    "file": "static/img/fontawesome-webfont.912ec66.svg",
+    "hash": "912ec66d7572ff821749319396470bde"
+  },
+  {
+    "file": "static/js/app.76eb3a92a13d7572e3a9.js",
+    "hash": "23aeaae083c94c3506e378833e3eaea7"
+  },
+  {
+    "file": "static/js/app.76eb3a92a13d7572e3a9.js.map",
+    "hash": "e822304c416de5f323b1f5d0b89435ab"
+  },
+  {
+    "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js",
+    "hash": "1f7027f0ae92d97d728702f7acbf9759"
+  },
+  {
+    "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js.map",
+    "hash": "16523619b9b7b4b114364df74f827f63"
+  },
+  {
+    "file": "static/js/vendor.f9009f2525eede9b4ad1.js",
+    "hash": "c514d496dd81da932b91250b2f0e33b5"
+  },
+  {
+    "file": "static/js/vendor.f9009f2525eede9b4ad1.js.map",
+    "hash": "686efca256bef5cfe95002c1edb03355"
+  }
+]
